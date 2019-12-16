@@ -6,16 +6,16 @@ $(`<center><div style="!important; "  id="ye" margin: 2px;" class="fa fa-heartbe
 $(`<button style="width:45px;margin:2px;" style="margin-top:2px;margin-left:2px;" class="fa fa-microphone fl btn btn-success"></button>
 `).insertBefore('button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary');
 (document.getElementById("tbox").placeholder = "( آگتب رسآلتك لـ شآت نبض آلخليج )");
-$(`<a id="des3" href="http://nb-kj.epizy.com" target="_blank"style="border-radius: 24px;width:30%;margin:2px;" class="fl mini  fa fa-heartbeat
+$(`<a id="des3" href="http://nb-kj.epizy.com" target="_blank"style="border-radius: 24px;width:fit-content;margin:2px;" class="fl mini  fa fa-heartbeat
 btn btn-primary"> موقع نبض </a>
 
-<a id="des3" href="https://nb-kh.site123.me" target="_blank"style="border-radius: 24px;width:30%;margin:2px;" class="fl mini  fa fa-heartbeat
+<a id="des3" href="https://nb-kh.site123.me" target="_blank"style="border-radius: 24px;width:fit-content;margin:2px;" class="fl mini  fa fa-heartbeat
 btn btn-primary">  آلمـدونـه  </a>
 
-<a id="des3" href="https://coolnames.online" target="_blank"style="border-radius: 24px;width:30%;margin:2px;" class="fl mini  fa fa-heartbeat
+<a id="des3" href="https://coolnames.online" target="_blank"style="border-radius: 24px;width:fit-content;margin:2px;" class="fl mini  fa fa-heartbeat
 btn btn-primary">  آلزخرفـه  </a>
 
-<a id="des3" href="https://abn-y.yoo7.com" target="_blank"style="border-radius: 24px;width:30%;margin:2px;" class="fl mini  fa fa-heartbeat
+<a id="des3" href="https://abn-y.yoo7.com" target="_blank"style="border-radius: 24px;width:fit-content;margin:2px;" class="fl mini  fa fa-heartbeat
 btn btn-primary"> المنتديآت</a>
 
 <div style="width:100%;" id="" class="btn btn-primary btn-ali" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">آداره الموقع </div>
