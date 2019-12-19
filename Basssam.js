@@ -18,13 +18,9 @@ btn btn-primary">  آلزخرفـه  </a>
 <a id="des3" href="https://abn-y.yoo7.com" target="_blank"style="border-radius: 24px;width: fit-content;margin:2px;" class="fl mini  fa fa-heartbeat
 btn btn-primary"> المنتديآت</a>
 
-<div style="width:100%;" id="" class="btn btn-primary btn-ali" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">آداره الموقع </div>
-<div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"> </p>شآت نبض الخليج شات كل الخليج </p> <i class="fa fa-"></i>
-<a href="#" style="border-radius: 90px 90px 90px 90px;width:45%;margin:2px;p dir="ltr" align="center" class="
-btn btn-primary"> ، βαֆαო -	</a>
+<a id="ahmed" href="https://cdn.statically.io/gh/a7mdoof/bssam_abn-y/330675d2/Bg.index.html" target="_blank"style="border-radius: 24px;width: fit-content;margin:2px;" class="fl mini  fa fa-heartbeat
+btn btn-primary"> ادارة الموقع</a>
 
- <a href="#" style="border-radius: 90px 90px 90px 90px;width:45%;margin:2px;p dir="ltr" align="center" class="
-btn btn-primary"> AL HNOOOF_ </a>
 
 <center></div></div></div>
 
