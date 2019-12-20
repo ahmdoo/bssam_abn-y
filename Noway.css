@@ -1,0 +1,8 @@
+.rating i{
+     color: #e0e0e0;
+font-size:14px;
+   }
+.rating i.active{
+    color: #ffc107 ;
+  background: transparent;
+}
