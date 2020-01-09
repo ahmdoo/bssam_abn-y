@@ -101,7 +101,6 @@ textarea.fl.filw.corner.tbox {border-radius: 10px;padding-left: 5px;border: 2px 
 $(`<button style="width:24px;margin:2px;" style="margin-top:2px;margin-left:2px;" class="fa fa-microphone fl btn btn-info"></button>`).insertBefore('button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary');
 $("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star-half-o'></span> لـوحة شأت نبض الخليج") 
 $("[data-target=#wall]").attr('title','متنفس الآقلأم والقلوب')
-$(`<img style="height:50px;width: 99%;margin-right: 3px;background-color: #736D5D;" src="sico/z1dpesika710.jpg" border="5">`).insertBefore('div#d2bc');
 $('.break.light').css({"background-image":"url(emo/)"});
 $('.nav-tabs>li>a').css({"background-image":"url(emo/)"});
 $(`<a href="https://nb-kh.site123.me" target="_blank" style=" font-family: 'El Messiri', sans-serif;width:107px;color: #666666;text-decoration:none; margin-right: 5px; margin-left: 2px;text-align: center;float: right;border-radius: 5px; border-color: #0F0F0F; padding: 3px;" class="border" ><i class="fa fa-forumbee"></i>&nbsp;المدونه</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
